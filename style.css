@@ -1,0 +1,43 @@
+body{
+    font-family:  sans-serif;
+}
+
+.GaG{
+    display: inline;
+}
+
+.GaG-link{
+    color: #23a422;
+    font-weight: 800;
+    font-size: 20px;
+
+}
+
+a:link{
+    text-decoration: none;
+    color: aquamarine;
+}
+a:visited{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    color: black;
+}
+a:active{
+    text-decoration: none;
+}
+
+.centered-navbar{
+    text-align: center;
+    display: inline;
+}
+.centered-elements{
+    text-align: center;
+    list-style: none;
+    
+}
+
+
+
+
